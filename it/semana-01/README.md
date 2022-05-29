@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- [x] <img src="../../img/icons/icon1.svg" style=" width: 20px;" alt=""><a href=""> Música: Pela internet - Cantor: Gilberto Gil; primeira musica lançada pela internet em tempo real no Brasil em 1996</a>
+- [x] <img src="../../img/icons/icon1.svg" style=" width: 20px;" alt=""><a href="/musica-pela-internet/"> Música: Pela internet - Cantor: Gilberto Gil; primeira musica lançada pela internet em tempo real no Brasil em 1996</a>
 
 - [x] <img src="../../img/icons/icon-2.svg" style=" width: 20px;" alt=""><a href=""> Avisos 2022</a>
 
