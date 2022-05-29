@@ -45,7 +45,7 @@ Repositório para guardar os arquivos do curso.
     <tr>
        <th scope="row">21:00 <br>ás<br>22:50</th>
         <td align="center">OM<br><b>N17- Tiago</b><br>Sala 36</td>
-        <td align="center">PT<br><b>N16- Ricardo</b><br>Sala 13</td>
+        <td align="center">PT<br><b>N4- Cinthia</b><br>Sala 13</td>
         <td align="center">LLP<br><b>N15- Tadeu</b><br>Sala 37</td>
         <td align="center">IT<br><b>N16- Ricardo</b><br>Sala 13</td>
         <td align="center">OM<br><b>N17- Tiago</b><br>Sala 36</td>
