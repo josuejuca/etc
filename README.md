@@ -63,5 +63,5 @@ Repositório para guardar os arquivos do curso.
 <h4>TI - Relações Humanas no Trabalho - Prof. Glauco Cruz</h4>
 <h2 align="center">Português Técnico</h2>
 <h4>TI - Português Técnico - Prof° Cinthia Cristina</h4>
-
+<hr>
  
