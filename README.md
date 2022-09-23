@@ -1,3 +1,4 @@
+<div>
 
 <p align="center">
   <img id="home" src="https://assets-juca.netlify.app/etc-logo.png" alt="Logo ETC">
@@ -8,10 +9,12 @@
 <p align="center">
 Repositório para guardar os arquivos do curso.
 </p>
-
+</div>
 <br>
 
 ## TI - Módulo II
+
+<div>
 
 * [TI - Linguagem Visual I](/lv1/)
 * [TI - Montagem e Configuração](/mc/)
@@ -54,7 +57,11 @@ Repositório para guardar os arquivos do curso.
 </table>
 <hr>
 
+<div/>
+
 ## TI - Módulo I
+
+<div>
 
 * [TI - Inglês Técnico](/it/)
 * [TI - Lógica e Linguagem de Programação](/llp/)
@@ -96,6 +103,36 @@ Repositório para guardar os arquivos do curso.
   </tbody>
 </table>
 <hr>
+
+</div>
+
+## TI - Módulo II
+
+<div>
+
+<!-- 
+TI - Linguagem Visual I
+TI - Montagem e Configuração
+TI - Redes de Computadores
+TI - Metodologia de Pesquisa e do Ensino
+TI - Legislação Aplicada
+-->
+<h2 align="center">Linguagem Visual I</h2>
+<h4>TI - Linguagem Visual I - Prof. Sandra Freire</h4>
+<h2 align="center">Montagem e Configuração</h2>
+<h4>TI - Montagem e Configuração - Noturno - Prof. Waldemar Silva</h4>
+<h2 align="center">Redes de Computadores</h2>
+<h4>TI - Montagem e Configuração - Prof. André Dias</h4>
+<h2 align="center">Metodologia de Pesquisa e do Ensino</h2>
+<h4>TI - Metodologia de Pesquisa e Ensino - Prof. João Paulo Monteiro da Silva</h4>
+<h2 align="center">Legislação Aplicada</h2>
+<h4>TI - Legislação Aplicada - Prof. Ricardo Luiz Pereira Noronha</h4>
+</div>
+<hr>
+
+## TI - Módulo I
+
+<div>
 <h2 align="center">Inglês Técnico</h2>
 <h4>TI - Inglês Técnico - Prof. Ricardo Cardoso da Silva</h4>
 <h2 align="center">Operador de Micro</h2>
@@ -106,5 +143,6 @@ Repositório para guardar os arquivos do curso.
 <h4>TI - Relações Humanas no Trabalho - Prof. Glauco Cruz</h4>
 <h2 align="center">Português Técnico</h2>
 <h4>TI - Português Técnico - Prof° Cinthia Cristina</h4>
+</div>
 <hr>
  
